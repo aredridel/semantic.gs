@@ -5,6 +5,11 @@
   "version": "1.3.0",
   "keywords": ["grid"],
   "license": "Apache License 2.0",
+  "files": [
+    "stylesheets/less/grid.less",
+    "stylesheets/scss/grid.scss",
+    "stylesheets/styl/grid.styl"
+  ],
   "less": [
     "stylesheets/less/grid.less"
   ],
