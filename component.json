@@ -1,0 +1,17 @@
+{
+  "name": "semantic.gs",
+  "repo": "aredridel/semantic.gs",
+  "description": "Semantic grid system",
+  "version": "1.3.0",
+  "keywords": ["grid"],
+  "license": "Apache License 2.0",
+  "less": [
+    "stylesheets/less/grid.less"
+  ],
+  "scss": [
+    "stylesheets/scss/grid.scss"
+  ],
+  "stylus": [
+    "stylesheets/styl/grid.styl"
+  ]
+}
